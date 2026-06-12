@@ -1,0 +1,26 @@
+,b'Apple_scab',b'Bacterial_spot',b'Bacterialblight',b'Black_rot',b'Blast',b'Brownspot',b'Cedar_apple_rust',b'Cercospora_leaf_spot Gray_leaf_spot',b'Common_rust_',b'Early_blight',b'Esca_(Black_Measles)',b'Haunglongbing_(Citrus_greening)',b'Late_blight',b'Leaf_Mold',b'Leaf_blight_(Isariopsis_Leaf_Spot)',b'Leaf_scorch',b'Northern_Leaf_Blight',b'Powdery_mildew',b'Septoria_leaf_spot',b'Spider_mites Two-spotted_spider_mite',b'Target_Spot',b'Tomato_Yellow_Leaf_Curl_Virus',b'Tomato_mosaic_virus',b'Tungro',b'healthy'
+b'Apple_scab',461,3,0,9,0,0,1,1,0,1,0,0,2,3,0,0,1,0,3,0,2,0,0,0,17
+b'Bacterial_spot',11,1236,0,14,0,1,8,3,0,6,2,3,31,2,0,0,0,6,9,3,0,2,2,0,23
+b'Bacterialblight',0,0,158,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+b'Black_rot',18,25,0,832,0,0,0,1,0,1,17,1,3,1,7,0,0,0,8,2,8,3,1,0,41
+b'Blast',0,0,0,0,144,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+b'Brownspot',0,0,0,0,0,160,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+b'Cedar_apple_rust',2,0,0,0,0,0,425,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,11
+b'Cercospora_leaf_spot Gray_leaf_spot',1,1,0,0,0,0,0,347,0,2,1,0,2,0,1,0,41,7,0,1,1,0,0,0,5
+b'Common_rust_',0,0,0,0,0,0,0,0,477,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+b'Early_blight',0,9,0,0,0,0,0,0,0,927,4,0,10,0,1,1,1,0,2,0,3,3,0,0,4
+b'Esca_(Black_Measles)',0,0,0,6,0,0,0,0,0,3,457,0,2,3,1,1,0,0,0,0,0,1,0,0,6
+b'Haunglongbing_(Citrus_greening)',0,12,0,2,0,0,1,0,0,0,0,482,0,0,0,0,0,1,2,0,0,1,0,0,2
+b'Late_blight',0,10,0,4,0,0,5,0,0,18,2,0,856,5,1,4,0,2,5,9,0,6,0,0,21
+b'Leaf_Mold',2,1,0,0,0,0,0,0,0,1,0,0,3,452,0,0,0,0,3,5,1,0,0,0,2
+b'Leaf_blight_(Isariopsis_Leaf_Spot)',0,0,0,9,0,0,0,0,0,0,2,0,2,0,417,0,0,0,0,0,0,0,0,0,0
+b'Leaf_scorch',0,2,0,0,0,0,0,0,0,4,0,0,3,0,0,430,0,1,1,0,0,0,0,0,3
+b'Northern_Leaf_Blight',3,0,0,3,0,0,0,10,1,0,0,0,3,0,0,0,451,5,0,0,1,0,0,0,0
+b'Powdery_mildew',1,5,0,0,0,0,1,1,0,2,0,0,0,0,0,1,2,835,0,0,0,0,2,0,5
+b'Septoria_leaf_spot',1,8,0,6,0,0,0,0,0,2,0,2,6,3,0,9,0,1,369,2,5,0,3,0,19
+b'Spider_mites Two-spotted_spider_mite',0,5,0,0,0,0,0,1,0,1,4,4,5,4,0,0,0,0,2,384,20,1,0,0,4
+b'Target_Spot',1,5,0,1,0,0,0,0,0,1,0,0,3,2,0,0,0,2,1,7,397,0,6,0,31
+b'Tomato_Yellow_Leaf_Curl_Virus',0,12,0,5,0,0,0,0,0,6,5,2,12,0,0,0,0,0,0,7,1,438,0,0,2
+b'Tomato_mosaic_virus',0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,438,0,8
+b'Tungro',0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,130,0
+b'healthy',22,25,0,23,0,0,8,5,0,7,3,0,11,5,0,5,0,3,14,12,13,0,4,0,5412
